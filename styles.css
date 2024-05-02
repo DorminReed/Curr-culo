@@ -1,0 +1,39 @@
+.infop{
+    border: 5px solid black;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: antiquewhite;
+    font-size: 25px;
+    
+}
+
+.objetivo{
+margin-top: 1px;
+
+    border: 5px solid black;
+    margin-left: 25%;
+    margin-right: 25%;
+    
+    font-size: 25px
+}
+
+.formacao{
+    margin-left: 25%;
+    margin-left: 25%;
+
+    font-size: 25px;
+}
+
+.rodape{
+    margin-left: 50%;
+}
+
+.imagem{
+    display: flex;
+    position: absolute;
+    height: 250px;
+    margin-left: 75%;
+    margin-top: -35%;
+   
+
+}
